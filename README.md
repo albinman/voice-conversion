@@ -1,6 +1,6 @@
 # voice-conversion
 
-Albin Manikkuttiyil
+Albin Manikkuttiyil\n
 University of Zurich
 
 ## Description
